@@ -14,7 +14,7 @@ Actividad 2 Confiugurar Git y Github, Crear Proyecto
 
 + Realizar la primera sincronizacion del proyecto y la nube (Github).
 
-  ##Actividad # 3
+#Actividad 3
 
 15/08/2023
 
