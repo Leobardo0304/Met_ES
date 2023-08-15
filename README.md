@@ -13,3 +13,10 @@ Actividad 2 Confiugurar Git y Github, Crear Proyecto
 + Crear un proyecto clonado el repositorio de Github.
 
 + Realizar la primera sincronizacion del proyecto y la nube (Github).
+
+  ##Actividad # 3
+
+15/08/2023
+
++ Definimos el concepto de hipotesis 
++ Tipos de hipotesis, HO= nula y H1= alternativa 
