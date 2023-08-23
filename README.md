@@ -14,23 +14,36 @@ Clase 1_ 07/08/23
 
 + Realizar la primera sincronizacion del proyecto y la nube (Github).
 
-<<<<<<< HEAD
+
 ##Actividad # 3
-=======
-# Actividad 3
->>>>>>> d53fb94f3e3399a8d526138083066c1d2b1e9312
 
 15/08/2023
 
 + Definimos el concepto de hipotesis 
-<<<<<<< HEAD
+
 + Tipos de hipotesis, HO= nula y H1= alternativa 
-=======
+
 + Tipos de hipotesis, HO= nula y H1= alternativa 
->>>>>>> d53fb94f3e3399a8d526138083066c1d2b1e9312
 
+##Actividad 4 
 
+21/08/2023
 
++ Importar datos 
+
++ Realizamos las medidas de tenedencia central: Media, Mediana y Rango 
+
++ Tambien sacamos las medidas de dispersicion: Desviacion estandar y Varianza
+
++ Tambien graficamos un boxplot a el cual le agregamos color, titulo, titulo a la variable la cual se queria encontrar y los datos que se querian graficar.
+
+##Actividad 5
+
+22/08/2023
+
++ Compilamos datos 
+
++ tambein realizamos la prueba t, la cual nos compara datos y nos da el valor de Pvalue. 
 
 
 
