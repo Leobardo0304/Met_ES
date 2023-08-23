@@ -28,3 +28,10 @@ Clase 1_ 07/08/23
 =======
 + Tipos de hipotesis, HO= nula y H1= alternativa 
 >>>>>>> d53fb94f3e3399a8d526138083066c1d2b1e9312
+
+
+
+
+
+
+
