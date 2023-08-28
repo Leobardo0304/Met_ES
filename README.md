@@ -45,6 +45,15 @@ Clase 1_ 07/08/23
 
 + tambein realizamos la prueba t, la cual nos compara datos y nos da el valor de Pvalue. 
 
+## Clase #6
+##Actividad 6
+
+28/08/2023
+
++ Se graficaron datos por separado para poder compararlos.
++ Sacamos las medidas de tendencia central de los distintos datos por separado.
++ Se realizo un boxplot de los datos. 
++ Hicimos la prueba t independiente. 
 
 
 
