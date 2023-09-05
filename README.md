@@ -55,5 +55,12 @@ Clase 1_ 07/08/23
 + Se realizo un boxplot de los datos. 
 + Hicimos la prueba t independiente. 
 
+## Clase # 7
+## Actividad 7
 
+05/09/2023
+
++ Realizamos la Prueba de T en ejercicio para una tarea, arboles con tratamiento y sin tratamiento de fertilizante.
++ Boxplot 
++ Medidas de tendencia central 
 
