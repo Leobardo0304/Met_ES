@@ -64,3 +64,12 @@ Clase 1_ 07/08/23
 + Boxplot 
 + Medidas de tendencia central 
 
+## Clase # 8
+## Actividad 8
+
+25/09/2023
+
++ Identificamos los tipops de correlacion 
++ Correlacion ascendente y descendente 
++ Graficamos datos de apertura dosel y area foliar en bosque escuela 
+
