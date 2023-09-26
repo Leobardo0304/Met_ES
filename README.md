@@ -73,3 +73,13 @@ Clase 1_ 07/08/23
 + Correlacion ascendente y descendente 
 + Graficamos datos de apertura dosel y area foliar en bosque escuela 
 
+## Clase # 9
+## Actividad 9 
+
+26/09/2023
+
++ Cramos una base de datos 
++ Creamos un data. frame de los datos 
++ Sacamos media y varianza 
++ Sacamos la correlacion y graficamos 
+
