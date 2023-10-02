@@ -83,3 +83,13 @@ Clase 1_ 07/08/23
 + Sacamos media y varianza 
 + Sacamos la correlacion y graficamos 
 
+## Clase # 10
+## Actividad 10 
+
+02/10/2023
+
++ Realizamos una grafica de correlacion de las erupciones
++ Sacamos medidas de dispercion de waiting y eruptions
++ Hipotesis nula y aletrantiva de tiempo de espera entre erupciones y su duracion
++ Entgregamos tarea 
+
