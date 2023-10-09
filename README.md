@@ -93,3 +93,12 @@ Clase 1_ 07/08/23
 + Hipotesis nula y aletrantiva de tiempo de espera entre erupciones y su duracion
 + Entgregamos tarea 
 
+## Clase 11
+## Actividad 10
+
+09/10/2023
+
++ Ejercicio de Regresion lineal con datos de la calse anterior 
++ Continuacion de la calse anterior
++ Obtener valor de alfa y beta 
+
