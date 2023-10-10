@@ -102,3 +102,18 @@ Clase 1_ 07/08/23
 + Continuacion de la calse anterior
 + Obtener valor de alfa y beta 
 
+## Clase 12 
+## Actividad 11 
+
+10/10/2023
+
++ Realizamos analisis de varianza (aov) de los diametros de arboles de distintas localidades
++ Encontrar diferencias significativas 
++ Normalidad -> shapiro.wilkls
++ Varianzas homogeneas -> var.test/barlett.test
+
+
+
+
+
+
