@@ -14,7 +14,7 @@ Clase 1_ 07/08/23
 
 + Realizar la primera sincronizacion del proyecto y la nube (Github).
 
-
+## Clase # 3
 ##Actividad # 3
 
 15/08/2023
@@ -25,6 +25,7 @@ Clase 1_ 07/08/23
 
 + Tipos de hipotesis, HO= nula y H1= alternativa 
 
+## Clase # 4
 ##Actividad 4 
 
 21/08/2023
@@ -37,6 +38,7 @@ Clase 1_ 07/08/23
 
 + Tambien graficamos un boxplot a el cual le agregamos color, titulo, titulo a la variable la cual se queria encontrar y los datos que se querian graficar.
 
+## Clase # 5
 ##Actividad 5
 
 22/08/2023
