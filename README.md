@@ -115,6 +115,12 @@ Clase 1_ 07/08/23
 + Normalidad -> shapiro.wilkls
 + Varianzas homogeneas -> var.test/barlett.test
 
+## Clase 13 
+## Examen final 
+
+29/11/2023
+
++ Examen final 
 
 
 
