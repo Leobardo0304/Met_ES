@@ -122,6 +122,9 @@ Clase 1_ 07/08/23
 
 + Examen final 
 
+# Graficas de contribucion 
+
+![](https://github.com/Leobardo0304/Met_ES/blob/main/Grafica.%20Rs.PNG)
 
 
 
